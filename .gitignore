@@ -1,0 +1,6 @@
+xcuserdata/
+xcshareddata/
+*.swp
+.Trashes
+*~.nib
+Pods/
